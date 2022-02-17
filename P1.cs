@@ -1,7 +1,6 @@
+// Problem: Find the sum of all the multiples of 3 or 5 below 1000
 using System;
-/* Problem: Find the sum of all the multiples of 3 or 5 below 1000
- * https://projecteuler.net/problem=1
- */
+
 namespace P1 {
     class Program {
 
