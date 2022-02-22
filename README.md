@@ -20,4 +20,4 @@ The most difficult part was the NoRemainder() method. I outlined in my head the 
 After solving the problem, I also realized it could go faster by checking only even numbers - an even number is the only possible answer, after all. All in all, I made use of what I learned on problem three and also came to better appreciate Console.WriteLine() as well as loops and break statements!
 
 ### Problem Six
-This was the easiest one yet - took me about five minutes. I found that I wasn't struggling as much with for loops.
+This was the easiest one yet - took me about five minutes. I found that I wasn't struggling as much with which construct to use (there were a number available, but I went ahead with a for loop).
