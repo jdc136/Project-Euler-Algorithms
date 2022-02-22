@@ -13,7 +13,7 @@ After having warmed up on the first three problems, I found this one very fluid!
 I initially only used IsPalindrome() to check whether the number was indeed a palindrome, and got an incorrect answer. I realized that it wasn't enough for the number to be a palindrome: it must also be a product of whatever 3-digit numbers. After adding that condition in, I was able to get the correct answer!
 
 ### Problem Five
-This one took me about two hours in between some errands. I was also very pleased with my learning process on this one - no search engine use at all! I started by making some considerations (like with problem four) which helped, but this one was a bit trickier in that I couldn't limit it to a range of numbers, etc. I ended up extensively using the Console.WriteLine() method to get a read on the specific steps my program was taking - and trying to match wht I wanted the program to do with the idiom of C#.
+This one took me about an hour and  half in between some errands. I was also very pleased with my learning process on this one - no search engine use at all! I started by making some considerations (like with problem four) which helped, but this one was a bit trickier in that I couldn't limit it to a range of numbers, etc. I ended up extensively using the Console.WriteLine() method to get a read on the specific steps my program was taking - and trying to match wht I wanted the program to do with the idiom of C#.
 
 The most difficult part was the NoRemainder() method. I outlined in my head the steps, but had a bit of trouble getting the method to actually follow those steps as desired, but eventually I hit on the target. 
 
