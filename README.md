@@ -18,3 +18,6 @@ This one took me about an hour and  half in between some errands. I was also ver
 The most difficult part was the NoRemainder() method. I outlined in my head the steps, but had a bit of trouble getting the method to actually follow those steps as desired, but eventually I hit on the target. 
 
 After solving the problem, I also realized it could go faster by checking only even numbers - an even number is the only possible answer, after all. All in all, I made use of what I learned on problem three and also came to better appreciate Console.WriteLine() as well as loops and break statements!
+
+### Problem Six
+This was the easiest one yet - took me about five minutes. I found that I wasn't struggling as much with for loops.
