@@ -21,3 +21,6 @@ After solving the problem, I also realized it could go faster by checking only e
 
 ### Problem Six
 This was the easiest one yet - took me about five minutes. I found that I wasn't struggling as much with which construct to use (there were a number available, but I went ahead with a for loop).
+
+### Problem Seven
+This was fun. Didn't take me very long to bear down on the problem by brute force and get the correct answer (first answer I submitted was correct). However, I was displeased by the inelegance of my solution. So I reviewed the overview and modified my code a bit based on that, making it a bit more simple.
