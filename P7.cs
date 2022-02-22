@@ -23,17 +23,17 @@ namespace P1 {
             // The crucial piece is: do I need to add these into some kind of data structure? Or can I simply hold the "place" in a variable. I think the latter
 
             int primeSequence = 1;
-            int limit = 6;
+            int limit = 10_001;
             long number = 2;            
 
             while (primeSequence < limit) {
-                Console.WriteLine("Prime Sequence is: {0}, Number is {1}, Limit is {2}", primeSequence, number, limit);
-                Console.ReadKey();
+                //Console.WriteLine("Prime Sequence is: {0}, Number is {1}, Limit is {2}", primeSequence, number, limit);
+                //Console.ReadKey();
                 if (IsPrime(number))
                     primeSequence++;
                 number++;
             }
-            Console.WriteLine("The {0:n0} prime is {1:n0}", primeSequence - 1, number - 1);
+            Console.WriteLine("The {0:n0} prime is {1:n0}", primeSequence, number - 1);
         }
     }
 }
