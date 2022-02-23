@@ -24,3 +24,8 @@ This was the easiest one yet - took me about five minutes. I found that I wasn't
 
 ### Problem Seven
 This was fun. Didn't take me very long to bear down on the problem by brute force and get the correct answer (first answer I submitted was correct). However, I was displeased by the inelegance of my solution. So I reviewed the overview and modified my code a bit based on that, making it a bit more simple.
+
+### Problem Eight
+This was a bit more challenging than the last few, but more than manageable. I've got a solid process now, so I brainstormed and outlined a plan of attack, then dove into coding. As usual, I employed many Console.WriteLine() statements and went through several iterations before arriving at the final design. For fun, I made it interactive, allowing the user to put in the number that they want (so if user inputs 13 then it will look for the product of sequential 13 digit ranges). 
+
+I got the code to work perfectly for the example of 4, provided by Project Euler, but when I did 13 I ran into a little problem. I hadn't used a search engine at this point, except to get a reference on using arrays, and I didn't want to simply get the answer. I found this [Stack Overflow thread](https://stackoverflow.com/questions/35532198/project-euler-8-in-c-sharp) which mentioned changing the data type to long - face palm! Overall, biggest takeway from this problem was implementing and using an array.
