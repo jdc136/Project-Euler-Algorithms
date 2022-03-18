@@ -39,3 +39,6 @@ As far as design, I opted for a separate method so as to break out of the nested
 
 ### Problem Ten 
 This one was quite easy for me, enough so that there isn't much to say. I used the primality test I've seen before in *Algorithms* by Sedgewick.
+
+### Problem Twelve
+I took a look at this one, and was able to break it down pretty quickly for smaller numbers. Running it for some number that had 500 divisors eluded me, however (code was running for about five minutes before I stopped it). About a week later, I was trying some kata on [Codewars.com](www.codewars.com). In trying to find a performant solution for that kata, I came across [this lovely answer on Stack Exchange](https://codereview.stackexchange.com/questions/237416/c-code-to-find-all-divisors-of-an-integer). After plugging that into the `GetNumOfFactors` method, I was able to quickly get the answer!
