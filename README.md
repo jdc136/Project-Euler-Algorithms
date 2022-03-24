@@ -42,3 +42,6 @@ This one was quite easy for me, enough so that there isn't much to say. I used t
 
 ### Problem Twelve
 I took a look at this one, and was able to break it down pretty quickly for smaller numbers. Running it for some number that had 500 divisors eluded me, however (code was running for about five minutes before I stopped it). About a week later, I was trying some kata on [Codewars.com](www.codewars.com). In trying to find a performant solution for that kata, I came across [this lovely answer on Stack Exchange](https://codereview.stackexchange.com/questions/237416/c-code-to-find-all-divisors-of-an-integer). After plugging that into the `GetNumOfFactors` method, I was able to quickly get the answer!
+
+### Problem Thirteen
+I took a look at this one and quickly averted my gaze. I had no idea how I would solve it! Initially I was thinking I'd have to implement some kind of process for the kind of addition you do on paper - manually, adding the remainder, etc. Fortunately, I was working on a different problem one day and a mentor alerted me to the existence of `BigInteger` which allowed me to solve this without all that effort. Whew!
